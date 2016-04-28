@@ -1,7 +1,12 @@
-.barf {
-  background-color: #000f0f;
+.column {
+  border: 1px solid red;
 }
 
-div {
-  color: red;
+.row {
+  margin: 20px 0;
+}
+
+.btn {
+  font-family: cursive;
+  font-size: 30px;
 }
